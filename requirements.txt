@@ -8,3 +8,4 @@ plotly==5.8.0
 joblib==1.1.0
 Flask==2.0.3
 setuptools==59.8.0  # Explicitly specify setuptools version
+gunicorn==20.1.0 
