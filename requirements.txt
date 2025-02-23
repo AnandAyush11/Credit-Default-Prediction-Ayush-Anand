@@ -1,12 +1,11 @@
-dash==2.6.1
-pandas==1.4.0
-scikit-learn==1.0.2
-xgboost==1.6.0
-gunicorn==20.1.0
-numpy==1.22.0
-plotly==5.8.0
-joblib==1.1.0
-setuptools==59.8.0  # Explicitly specify setuptools version
-gunicorn==20.1.0 
-Flask==2.0.3
-Werkzeug==2.0.3
+numpy 
+pandas
+matplotlib
+seaborn
+statsmodels
+sklearn
+dash
+plotly
+xgboost
+Flask
+gunicorn
