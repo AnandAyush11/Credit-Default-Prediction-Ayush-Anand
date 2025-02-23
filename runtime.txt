@@ -1,1 +1,1 @@
-python-3.9.21 # Latest patch version for 3.9
+python-3.9.21
