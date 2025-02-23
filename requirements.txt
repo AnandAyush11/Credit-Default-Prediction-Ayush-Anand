@@ -1,11 +1,11 @@
 numpy 
 pandas
-matplotlib
-seaborn
-statsmodels
+#matplotlib
+#seaborn
+#statsmodels
 scikit-learn
 dash
-plotly
+#plotly
 xgboost
 Flask
 gunicorn
