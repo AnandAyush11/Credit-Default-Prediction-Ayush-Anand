@@ -20,6 +20,12 @@ server = app.server
 with open('./Models/xgbmodel.pkl' , 'rb') as f:
     xgb_model = pickle.load(f)
 
+# Workaround for missing attributes in older XGBoost versions:
+if not hasattr(xgb_model, "feature_types"):
+    xgb_model.feature_types = None
+if not hasattr(xgb_model, "max_cat_threshold"):
+    xgb_model.max_cat_threshold = 64
+
 app.layout = html.Div([
         html.H1(children = 'Credit Card Default Prediction -  Ayush Anand',
                 style = {'textAlign':'center'}),

@@ -1,5 +1,5 @@
 
-# Credit Card Default Prediction - Utkarsh Gaikwad
+# Credit Card Default Prediction - Ayush Anand
 
 Financial threats are displaying a trend about the credit risk of commercial banks as the incredible improvement in the financial industry has arisen. In this way, one of the biggest threats faced by commercial banks is the risk prediction of credit clients. The goal is to predict the probability of credit default based on credit card owner's characteristics and payment history.
 
@@ -14,7 +14,7 @@ URL - https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-datas
 
 ## WebSite URL
 
-My WebApp URL - https://creditcarddefaultutkarshg.herokuapp.com/
+My WebApp URL - https://ayush-credit-default-7606193afd2e.herokuapp.com
 
 ## Software Requirements 
 
@@ -61,7 +61,7 @@ Linkedin URL - https://www.linkedin.com/in/utkarsh-gaikwad-61194bbb
 
 ## Author
 
-[@utkarshg1](https://github.com/utkarshg1)
+[@AnandAyush11](https://github.com/AnandAyush11)
 
 
 
