@@ -45,19 +45,19 @@ Below are steps taken to build this project
 
 ## Documentation
 
-1) [Detailed-Project-Report](https://drive.google.com/file/d/1_DuqYwWFZDtCR-zMlmSWCd04-XJIXwMo/view?usp=sharing)
-2) [High-Level-Design-Document](https://drive.google.com/file/d/1iiKu75WIoyreuKWTatyDh-U22bl-oHnf/view?usp=sharing)
-3) [Low-Level-Design-Document](https://drive.google.com/file/d/1KnLZ-3xE1ZVwfcVjgvPE9o0IaRPr8w1w/view?usp=sharing)
-4) [Architecture](https://drive.google.com/file/d/1eC8BhaQe0DSRfXkELuCuTZf3Gb98Vvq1/view?usp=sharing)
-5) [Wireframe](https://drive.google.com/file/d/1GAQbhLFYdGvJDUwVYL33Iav3zJvbIBup/view?usp=sharing)
+1) [Detailed-Project-Report](https://drive.google.com/file/d/1RzAYSjtYzoOGyIkwBysER5hXyY185GgQ/view?usp=sharing)
+2) [High-Level-Design-Document](https://drive.google.com/file/d/11fiewmwFeNMyfPswHj0VlTgf5bY5f3_R/view?usp=sharing)
+3) [Low-Level-Design-Document](https://drive.google.com/file/d/1MNgbjo1Y6-NSChTjaVSNa6DpYm-D4D6X/view?usp=sharing)
+4) [Architecture](https://drive.google.com/file/d/1IB8WKm8O8L5a5RM-I4cfh99Vzl4zPv07/view?usp=sharing)
+5) [Wireframe](https://drive.google.com/file/d/1t5j5_Y-wRM6MeArjr2gRAwxZVJOOY84c/view?usp=sharing)
 
 # Project Demo
 
-[Youtube-Link](https://www.youtube.com/watch?v=ltktrNRSWEU)
+[Youtube-Link](https://youtu.be/52DZdT9kpNk)
 
 ## Author Linkedin URL 
 
-Linkedin URL - https://www.linkedin.com/in/utkarsh-gaikwad-61194bbb
+Linkedin URL - https://www.linkedin.com/in/ayush-anand-924ba3215/
 
 ## Author
 
